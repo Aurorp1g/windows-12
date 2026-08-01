@@ -2755,7 +2755,7 @@ Micrȯsoft Windows [版本 12.0.39035.7324]
     },
     windows12: {
         init: () => {
-            document.getElementById('win12-window').src = './boot.html';
+            document.getElementById('win12-window').src = './index.html';
         }
     },
     wsa: {

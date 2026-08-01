@@ -76,7 +76,7 @@ Win12 Online（以下简称“Win12OL”或“本项目”）是一个**非商�
 > [!NOTE]
 > 目前移动端适配不太完善，开桌面版网站凑合着用吧 `>v-)o`
 
-点击[此处](https://win12-online.github.io/win12/boot.html)即可体验。
+点击[此处](https://win12-online.github.io/win12/index.html)即可体验。
 
 ## 桌面版
 

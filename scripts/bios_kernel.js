@@ -14,7 +14,7 @@ function toBoot() {
         $('#body').css('cssText', 'background-color: black;');
     }, 500);
     setTimeout(() => {
-        location.href = './boot.html';
+        location.href = './index.html';
     }, 1000);
 }
 
